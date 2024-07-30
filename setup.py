@@ -1,5 +1,7 @@
 # setup.py is responsible in creating the machine learning application as a package or we can say ist is the overview of the application
+# -e .  is used to trigger the step up file which is used in requirements.txt
 from setuptools import find_packages,setup
+
 from typing import List
 
 
